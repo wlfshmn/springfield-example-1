@@ -1,4 +1,4 @@
-library 'springfield-pipeline-steps_v2'
+library 'springfield-pipeline-steps_v2@jenkins-github'
 
 String project = "examples"
 String appName = "springfield-example"
